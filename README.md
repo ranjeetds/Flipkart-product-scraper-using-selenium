@@ -23,4 +23,4 @@ Selenium python script to scrape flipkart product page and store data into csv f
 - You can modify this script for any kind of scraping work
 
 ## Future?
-- I will be adding crawler to the page in order to scrape multiple product pages
+- I will be adding crawler to the script in order to scrape multiple product pages
